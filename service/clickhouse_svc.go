@@ -9,7 +9,7 @@ import (
 
 	dbClickhouseConf "github.com/hecc-blot/db-clickhouse/config"
 	dbClickhouseContract "github.com/hecc-blot/db-clickhouse/contract"
-	"github.com/hecc-blot/framework/contract/log"
+	"github.com/hecc-blot/core/contract/log"
 	"github.com/hecc-blot/framework/util"
 
 	"go.uber.org/zap"

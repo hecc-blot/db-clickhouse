@@ -3,8 +3,9 @@ module github.com/hecc-blot/db-clickhouse
 go 1.26.1
 
 require (
-	github.com/hecc-blot/db v0.1.3
-	github.com/hecc-blot/framework v0.1.2
+	github.com/hecc-blot/core v0.1.4
+	github.com/hecc-blot/db v0.1.4
+	github.com/hecc-blot/framework v0.1.4
 	github.com/stretchr/testify v1.12.1
 	go.uber.org/zap v1.28.0
 	gorm.io/driver/clickhouse v0.7.0
